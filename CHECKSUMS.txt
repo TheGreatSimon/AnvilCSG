@@ -1,0 +1,2 @@
+SHA-256 of the original, unmodified Unity package inside the release ZIP:
+0bc805b29d8a4fc005e7023a91cad8dd40bec48e58c40f4571cc74220694246c  AnvilBeta2.unitypackage

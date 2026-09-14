@@ -1,0 +1,19 @@
+Third-Party Notices
+
+Anvil includes a native xatlas wrapper used for lightmap UV generation.
+
+xatlasLib wrapper
+Copyright (c) 2020 kitbashery
+Licensed under the MIT License.
+
+The wrapper was originally forked from:
+https://github.com/guycalledfrank/xatlasLib
+
+Unity wrapper reference:
+https://github.com/TolinSimpson/xatlas-for-Unity
+
+Upstream xatlas:
+https://github.com/jpcy/xatlas
+
+The complete license text and additional notices are included at:
+Editor/Bake/XAtlas/XAtlasLicense.txt

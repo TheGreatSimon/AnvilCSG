@@ -62,7 +62,3 @@ I'll post release news on [Discord](https://discord.gg/ZjVdWnmwjz). You're welco
 If you enjoy Anvil, sharing this page with another level designer would help a lot. A star is appreciated too, but neither is required to download or use the preview.
 
 Thanks for giving it a try. I'd love to see what you build.
-
----
-
-This repository is just the public Beta 2 preview page and download. The newer development builds are not included. The original Unity package is distributed unchanged; its SHA-256 checksum is listed in [CHECKSUMS.txt](CHECKSUMS.txt).

@@ -10,6 +10,8 @@ I'm sharing Beta 2 so you can try the workflow while the newer release waits for
 
 **[Download Beta 2](https://github.com/TheGreatSimon/AnvilCSG/releases/download/beta-2/AnvilCSG-Beta2-Preview.zip)**
 
+**Unity 6.3 only.** Updated September 25: fixed a bug that stopped Beta 2 projects from building a game. Download the updated package if you ran into build errors.
+
 [Watch the tutorial](https://www.youtube.com/watch?v=B0sDldIkYYs) · [Join the Discord](https://discord.gg/ZjVdWnmwjz) · [Read the docs](https://2yeet.gitbook.io/anvilcsg)
 
 ## What you can try
@@ -22,7 +24,7 @@ I'm sharing Beta 2 so you can try the workflow while the newer release waits for
 
 ## Before you download
 
-**Beta 2 is a frozen, unsupported preview.** It has known bugs and will not receive ongoing fixes. It does not include the fixes and features added in later betas, and there is no promise of compatibility with future releases.
+**Beta 2 is an older preview with known bugs.** This update fixes the game-build bug; it does not add features or include the newer betas. Ongoing updates and compatibility with future releases are not promised.
 
 Try it in a separate project first. Back up your work, and don't import it over another Anvil version. If you already have access to a newer beta, keep using that instead.
 
@@ -40,9 +42,9 @@ The package also includes a demo scene at `Assets/Anvil/Demo/DemoScene.unity`.
 
 ## Compatibility and limitations
 
-- Intended for **Unity 6**, with **Built-in** or **URP**. HDRP is not listed as supported for this preview.
+- Supports **Unity 6.3 only**, with **Built-in** or **URP**. Other Unity versions and HDRP are not supported for this preview.
 - The bundled native xatlas lightmap UV plugin is for the **Windows x64 Unity Editor**. Do not assume that workflow will work on macOS or Linux.
-- Compatibility across every Unity 6 minor version, including 6.7, has not been verified for this legacy package.
+- The game-build fix was verified with a Windows player build on **Unity 6000.3.10f1**.
 - Later lighting, UV, selection, and placement fixes are not included. Check the result on a small map before relying on a workflow for a larger project.
 - Support for integrations shown in newer Anvil videos is not promised for Beta 2.
 - Keep backups of your editable scenes. Generated output is not a replacement for them.

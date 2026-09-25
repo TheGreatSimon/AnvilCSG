@@ -1,2 +1,2 @@
 SHA-256 of the Beta 2 Unity 6.3 game-build fix package inside the release ZIP:
-dec6b98d62a79ec9115a1db6e1cd11ed9074d2543ddff6cbe09fb5a3c7e11ecc  AnvilBeta2.unitypackage
+f8dd0c0c57e2a370798b0e7f310a93790fc848a12e2560cb3fe675c5f032a529  Anvil21.unitypackage

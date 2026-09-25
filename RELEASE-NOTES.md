@@ -8,8 +8,9 @@ Here's Beta 2 for anyone who wants to try building a map with Anvil before the n
 - **Fixed the game-build bug** that caused errors about `scaleInLightmap`, `receiveGI`, `stitchLightmapSeams`, and `LightProbeGroup.probePositions`.
 - Verified with a Windows player build on Unity **6000.3.10f1**, with no errors or warnings in the isolated build test.
 - This is still Beta 2. No features from the newer betas have been added.
+- Replaced the download with a fresh Unity export to fix the import problem. The package inside the ZIP is now named **Anvil21.unitypackage**.
 
-Download **AnvilCSG-Beta2-Preview.zip** below. Extract it, read the included licence, and import **AnvilBeta2.unitypackage** into a separate Unity project. Open **Tools > Anvil > Workspace** to get started.
+Download **AnvilCSG-Beta2-Preview.zip** below. Extract it, read the included licence, and import **Anvil21.unitypackage** into a separate Unity project. Open **Tools > Anvil > Workspace** to get started.
 
 This is Beta 2 with the game-build fix. It is an older preview with known bugs, not the latest beta. Back up your work and don't import it over another Anvil version. The bundled native xatlas UV plugin is Windows x64 Editor-only. Newer tutorials and docs may show features this version doesn't have.
 

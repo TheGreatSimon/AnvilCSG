@@ -33,7 +33,7 @@ The tutorial and documentation may show a newer version. Some buttons, features,
 ## Getting started
 
 1. Download the ZIP above and extract it. Read the included licence and preview notes.
-2. Open a separate Unity project. Import `AnvilBeta2.unitypackage` through **Assets > Import Package > Custom Package**.
+2. Open a separate Unity project. Import `Anvil21.unitypackage` through **Assets > Import Package > Custom Package**.
 3. Open **Tools > Anvil > Workspace**.
 4. Start with a small box in an orthographic view. Try shaping it and painting a material before building a larger map.
 5. Use the workspace Help menu for controls and shortcuts. Run **Preflight** before **Build Map**.

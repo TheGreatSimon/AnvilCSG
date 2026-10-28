@@ -6,7 +6,9 @@
 
 Anvil CSG is a brush-based level editor inside Unity, inspired by Hammer and TrenchBroom. Draw your layout, shape the brushes, put some materials on, and build a map without leaving the editor.
 
-I'm sharing Beta 2 so you can try the workflow while the newer release waits for its Asset Store review. This is an older build with known bugs, not the latest version being tested. It's free to use under the [preview licence](LICENSE.md), including in games with a **Made with AnvilCSG** credit.
+The full version is now out on the Unity Asset Store. Beta 2 stays here as a free preview so you can try the workflow first. It's an older build with known bugs, not the current release. It's free to use under the [preview licence](LICENSE.md), including in games with a **Made with AnvilCSG** credit.
+
+**[Get the full version on the Asset Store](https://assetstore.unity.com/packages/tools/level-design/anvil-csg-376862)**
 
 **[Download Beta 2](https://github.com/TheGreatSimon/AnvilCSG/releases/download/beta-2/AnvilCSG-Beta2-Preview.zip)**
 
@@ -55,11 +57,11 @@ Yes, including a commercial game. Include **Made with AnvilCSG** in the game's c
 
 This is **not an open-source release**. Anvil's own code cannot be modified, repackaged, or sold. Third-party components keep their own licences. Please read [LICENSE.md](LICENSE.md) for the full terms and [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) for the included notices.
 
-## What's next?
+## Full version
 
-The newer paid release is planned for the Unity Asset Store at **$20**, with a **30% launch discount for the first two weeks ($14)**. Beta 2 does not include a licence or free upgrade to that release. There is no confirmed launch date yet.
+The full release is out on the [Unity Asset Store](https://assetstore.unity.com/packages/tools/level-design/anvil-csg-376862) for **$20**, with a **30% launch discount for the first two weeks ($14)**. It has many fixes and features that aren't in Beta 2 and supports Unity 6.0 to 6.7. Beta 2 does not include a licence or free upgrade to the full release.
 
-I'll post release news on [Discord](https://discord.gg/ZjVdWnmwjz). You're welcome to share your maps there too. Beta 2 doesn't come with support, so please don't expect fixes for this old build.
+News and updates go on [Discord](https://discord.gg/ZjVdWnmwjz). You're welcome to share your maps there too. Beta 2 doesn't come with support, so please don't expect fixes for this old build.
 
 If you enjoy Anvil, sharing this page with another level designer would help a lot. A star is appreciated too, but neither is required to download or use the preview.
 
